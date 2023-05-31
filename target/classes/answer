@@ -1,0 +1,22 @@
+{
+  "error": "0",
+  "message": "success",
+  "charge": {
+    "reference": "S-0000300003000046533",
+    "customer_order": "tienda_pedro_001",
+    "amount": "6500.99",
+    "convenience_store": "OXXO",
+    "store_fixed_rate": "9.00",
+    "store_schedule": "8:00 - 20:00",
+    "store_image": "{DominioServidor}images/cashpayment/OXXO.png",
+    "bank_account_number": "a nombre de PagoFácil, con la referencia S-0000300003000046533",
+    "bank": "",
+    "created_at": "2023/05/30 10:05:53",
+    "expiration_date": "29-06-2023",
+    "status": "",
+    "reference_number": "S-0000300003000046533",
+    "agreement_number": ""
+  }
+}
+
+branch_key, user_key, store_code: are fixed
